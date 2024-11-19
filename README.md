@@ -30,6 +30,7 @@ If the dataset is downloaded independently, create a folder in the project direc
 - **`Project.ipynb`**: Jupyter Notebook containing the implementation, from data preprocessing to forecasting.
 - **`Dataset`**: A folder containing the CSV files for each aquaponic fish pond.
 - **`COS 781 Project Report.pdf`**: A PDF file that contains the report of the project.
+- **`Aquaponics Fish Pond_u21529583.zip`**: A ZIP file containing all the project files.
 - **`README.md`**: Documentation of the repository.
 
 ## How to Run the Project
@@ -45,11 +46,13 @@ If the dataset is downloaded independently, create a folder in the project direc
 3. **Install Dependencies**:
     Install dependencies using:  
     pip install numpy pandas matplotlib scikit-learn tensorflow
-4. **Clone the Repository**:  
+4. **If Cloning from GitHub Repo**:  
     Clone this repository to your local machine:  
-    git clone https://github.com/AdamOsb/781-Project
+    git clone https://github.com/AdamOsb/781-Project  
+    **If using the dowloaded ZIP file**
+    Extract the files into a directory
 5. **Run the Jupyter Notebook**: 
-    Navigate to the repository folder and open the notebook:  
+    Navigate to the repository/extracted folder and open the notebook:  
     jupyter notebook Project.ipynb
 
 
