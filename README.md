@@ -36,19 +36,20 @@ If the dataset is downloaded independently, create a folder in the project direc
 1. **Install Python**: 
     Ensure Python 3.8 or later is installed. Download it from [Python.org](https://www.python.org/).
 2. **Install Jupyter Notebook**: 
-    Install with: 
-    pip install notebook
-    Or install from the website:
-    [Jupyter notebook download Link](https://jupyter.org/install)
+    Install with:  
+    pip install notebook  
+    OR  
+    install from the website:    
+    [Jupyter notebook download Link](https://jupyter.org/install)  
     and follow the instructions
 3. **Install Dependencies**:
-    Install dependencies using:
+    Install dependencies using:  
     pip install numpy pandas matplotlib scikit-learn tensorflow
 4. **Clone the Repository**:  
-    Clone this repository to your local machine:
-    git clone <repo_url>
+    Clone this repository to your local machine:  
+    git clone https://github.com/AdamOsb/781-Project
 5. **Run the Jupyter Notebook**: 
-    Navigate to the repository folder and open the notebook:
+    Navigate to the repository folder and open the notebook:  
     jupyter notebook Project.ipynb
 
 
