@@ -49,7 +49,7 @@ If the dataset is downloaded independently, create a folder in the project direc
 4. **If Cloning from GitHub Repo**:  
     Clone this repository to your local machine:  
     git clone https://github.com/AdamOsb/781-Project  
-    **If using the dowloaded ZIP file**
+    **If using the dowloaded ZIP file:**  
     Extract the files into a directory
 5. **Run the Jupyter Notebook**: 
     Navigate to the repository/extracted folder and open the notebook:  
